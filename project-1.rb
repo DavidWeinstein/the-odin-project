@@ -1,4 +1,4 @@
-# The methodbelow works for an all lower case, all alpha string, but fails when upcase or " " or ! is put in. Will have to research this instead of jumping right in.
+# The method below works for an all lower case, all alpha string, but fails when upcase or " " or ! is put in. Will have to research this instead of jumping right in.
 
 def caesar_cipher(string, num)
     alphabet = "abcdefghijklmnopqrstuvwxyz"
